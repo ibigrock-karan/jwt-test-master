@@ -1,0 +1,15 @@
+body {
+  font-family: Arial;
+  background: gray;
+  font-size: 14px;
+  color: #bbb;
+}
+#header {
+  color: green;
+}
+#payload {
+  color: orange;
+}
+#signature {
+  color: red;
+}
